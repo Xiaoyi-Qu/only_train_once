@@ -24,7 +24,7 @@ In addition, we recommend our following efficient ML works.
 - [DREAM: Diffusion Rectification and Estimation-Adaptive Models](https://www.tianyuding.com/projects/DREAM/), efficient diffusion training, in **CVPR 2024**.
 - [DISTILLM: Towards Streamlined Distillation for Large Language Models](https://arxiv.org/pdf/2402.03898.pdf), LLM distillation, in **ICML 2024**.
 
-Thanks for the interest and support from our community. 
+Thank you for the interest and support from our community. 
 
 ## Installation
 
